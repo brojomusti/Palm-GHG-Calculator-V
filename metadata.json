@@ -1,0 +1,6 @@
+{
+  "name": "RSPO PalmGHG V5 Platform",
+  "description": "Comprehensive RSPO PalmGHG Version 5 GHG inventory and calculation engine aligned with GHG Protocol LSR v1.1 standards, Scope 1-3 classifications, operational boundaries, and interactive process flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
